@@ -39,18 +39,17 @@ body {
     width: 100%;
     padding: 10px;
     background: #242526;
-    color: #ffffff; 
-    cursor: pointer;
+    color: #ffffff;
     border: 2px solid #242526;
     margin-bottom: 20px;
     border-radius: 4px;}
   .submit-btn:hover, #submit-two:hover {
+    cursor: pointer;
     background: #ffffff;
     color: #242526;}
   .submit-btn:disabled, #submit-two:disabled {
     background: #f4f4f4;
     color: #242526;
-    cursor: default;
     border: 2px solid #f4f4f4;}
   .grey-box {
     background-color: rgba(36, 37, 38, 0.05);
