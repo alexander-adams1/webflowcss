@@ -91,3 +91,31 @@ body {
     font-style: italic;
     font-size: 12px;
     text-align: left;}
+
+.second-des {
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 20px;}
+.answer-proposal-two {
+    text-align: right;
+    font-size: 16px;
+    margin-right: 20px;
+    position: absolute;
+    right: 0;}
+#email-input{
+    width: 242px;
+    height: 38px;
+    padding: 8px;
+    border-radius: 4px;
+    float: left;}
+#submit-two {
+    width: 200px;
+    height: 38px;
+    background: #242526;
+    color: #ffffff;
+    right: 0;
+    border: 2px solid #242526;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    float: right;}
