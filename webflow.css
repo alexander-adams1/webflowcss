@@ -4,7 +4,8 @@ body {
     margin: 0;
     padding: 20px;}
   .container {
-    max-width: 500px;
+    max-width: 1000px;
+    min-width: 800px;
     margin: 0 auto;
     background: #fff;
     padding: 20px;
